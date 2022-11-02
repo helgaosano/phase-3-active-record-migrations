@@ -5,3 +5,5 @@ development:
 test:
   adapter: sqlite3
   database: db/test.sqlite3
+
+# this file by convention, gives Active Record the necessary details about how to connect to our database
